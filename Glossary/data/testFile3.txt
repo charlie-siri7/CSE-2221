@@ -1,0 +1,16 @@
+three
+The third number, equal to 1 + 2.
+It represents the position of the month March in a year.
+The number three represents the letter c.
+
+c
+Letter number three of the alphabet.
+It sounds like the word "sea".
+The letter c appears in "March" once.
+
+March
+A month containing the letter "c".
+It is month number three of the year.
+March can also mean to walk in synchronization.
+
+

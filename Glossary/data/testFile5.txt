@@ -1,0 +1,21 @@
+five
+The fifth number, equal to 10 / 2.
+It represents the letter "e" in the alphabet.
+May is month number five of the year.
+Day number five of the week is Thursday.
+
+e
+A letter that is at the end of the word "five".
+It is the most common letter of the alphabet.
+
+May
+Out of twelve months of the year, May is number five.
+May usually has a Thursday 4 times.
+The letter "e" is not present in May.
+
+Thursday
+Day number five, usually appearing in May 4 times.
+
+
+
+

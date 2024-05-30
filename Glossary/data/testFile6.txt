@@ -1,0 +1,17 @@
+Peter
+The greatest Asian in CSE.
+Peter enjoys ping-pong, Clash Royale, and math.
+He is fluent in Chinese, Java, C++, and Python.
+
+pipe
+A hollow tube.
+A pipe can be used to transfer water, or for Peter to drink bubble tea.
+
+pick
+Can be denoted as choosing between a few choices.
+Example: Peter wanted to pick CSE as his major.
+Also can be used to denote a form of extraction.
+Example: Peter likes to pick his nose using a pipe.
+
+pickle
+A vegetable (or fruit?) that tastes sour and salty.

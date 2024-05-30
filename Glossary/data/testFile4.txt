@@ -1,0 +1,26 @@
+four
+The fourth number, equal to 2 * 2.
+It represents the letter "d" in the alphabet.
+April is month number four of the year.
+In a week, Wednesday is the fourth day.
+
+d
+A letter that does not appear in the word "April".
+It also does not appear in the word "May".
+However, in the word "Wednesday", it appears twice.
+It is letter number four of the alphabet.
+
+April
+A month that typically contains four instances of a Wednesday.
+April is also month number four of the year.
+This month is when Easter occurs.
+April does not contain the letter "d".
+
+Wednesday
+Day number four of the week.
+The word "Wednesday" contains the letter d twice.
+Wednesday usually occurs four times in the month of April.
+Wednesday is in the middle of the school week.
+
+
+

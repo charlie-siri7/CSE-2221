@@ -1,0 +1,8 @@
+two
+The second number, equal to 1 + 1.
+It represents the letter b.
+
+b
+The second letter, representing the number 2.
+It appears in "banana" once.
+
